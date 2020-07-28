@@ -1,0 +1,13 @@
+
+(module SWITCHCRAFT_RASM722X (layer F.Cu) (tedit 5F209634)
+  (descr "")
+  (fp_text reference REF** (at -6.9916 -4.4492 0) (layer F.SilkS)
+    (effects (font (size 1.00094488189 1.00094488189) (thickness 0.015)))
+  )
+  (fp_text value SWITCHCRAFT_RASM722X (at 2.5405 15.878175 0) (layer F.Fab)
+    (effects (font (size 1.00019685039 1.00019685039) (thickness 0.015)))
+  )
+  (pad SLEEVE smd rect (at -7.1889 9.1403) (size 3.81 6.35) (layers F.Cu F.Mask F.Paste))
+  (pad SHUNT smd rect (at 6.0992 9.1401) (size 3.3 6.35) (layers F.Cu F.Mask F.Paste))
+  (pad PIN smd rect (at 0.0 0.0) (size 3.3 4.06) (layers F.Cu F.Mask F.Paste))
+)
