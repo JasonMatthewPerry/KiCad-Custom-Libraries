@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 400BWMSP1R2BLKSM6QE
+#
+DEF 400BWMSP1R2BLKSM6QE S 0 40 Y N 1 L N
+F0 "S" -300 200 50 H V L BNN
+F1 "400BWMSP1R2BLKSM6QE" -301 -301 50 H V L BNN
+F2 "SW_400BWMSP1R2BLKSM6QE" 0 0 50 H I L BNN
+F3 "E SWITCH" 0 0 50 H I L BNN
+DRAW
+C -100 -100 15 0 0 20 N
+C 0 100 15 0 0 20 N
+C 100 -100 15 0 0 20 N
+P 2 0 0 10 1 100 -81 -107 N
+X ~ 1 -100 -100 0 R 40 40 0 0 P 
+X ~ 2 0 100 0 R 40 40 0 0 P 
+X ~ 3 100 -100 0 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
