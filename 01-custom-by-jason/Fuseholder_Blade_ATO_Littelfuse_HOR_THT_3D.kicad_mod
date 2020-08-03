@@ -1,4 +1,4 @@
-(module Fuseholder_Blade_ATO_Littelfuse_HOR_THT_3D (layer F.Cu) (tedit 5F1FD8E3)
+(module Fuseholder_Blade_ATO_Littelfuse_HOR_THT_3D (layer F.Cu) (tedit 5F286777)
   (descr "Fuseholder ATO Blade littelfuse Pudenz 2 Pin")
   (tags "Fuseholder ATO Blade littelfuse Pudenz 2 Pin")
   (fp_text reference REF** (at 4.57 -2.78) (layer F.SilkS)
@@ -32,9 +32,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "/home/bluedragon/Documents/github_repo/KiCad-Custom-Libraries/fuse-ato-atc-5-amp-1.snapshot.5/BLADE FUSE AUTO 5A 32VDC ATO-ATC.stp"
-    (offset (xyz -11.5 -17.5 -8))
+  (model "/home/bluedragon/Documents/github_repo/KiCad-Custom-Libraries/01-custom-by-jason/Littelfuse_Blade_Mini_ATO_3D/Fusibile Lama MINI Type 2.stp"
+    (offset (xyz 4.8 -7 2))
     (scale (xyz 1 1 1))
-    (rotate (xyz 90 180 90))
+    (rotate (xyz -90 0 0))
   )
 )
